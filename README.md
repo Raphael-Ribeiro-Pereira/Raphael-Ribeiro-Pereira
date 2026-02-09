@@ -25,5 +25,5 @@
 ---
 
 ## 📫 How to reach me:
-- **LinkedIn:** [Insert your Link Here]
+- **LinkedIn:** (https://www.linkedin.com/in/raphael-ribeiro-pereira/)
 - [cite_start]**Email:** raphaelrpereirarp@gmail.com [cite: 5]
