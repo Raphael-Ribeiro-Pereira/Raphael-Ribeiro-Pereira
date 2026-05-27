@@ -8,7 +8,6 @@
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Raphael-Ribeiro-Pereira&style=for-the-badge&color=blueviolet)](https://github.com/Raphael-Ribeiro-Pereira)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelrpereira.rp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-ribeiro-pereira)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511950841109)
@@ -143,22 +142,6 @@ My superpower? I'm not the data scientist who hands you a 50-page Jupyter notebo
 - ⚙️ Process automation
 - ⏱️ Time-saving for repetitive tasks
 - 🔧 Practical, real-world utility
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Ribeiro-Pereira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Ribeiro-Pereira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Raphael-Ribeiro-Pereira&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Ribeiro-Pereira&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 
