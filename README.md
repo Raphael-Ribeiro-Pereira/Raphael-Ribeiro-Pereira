@@ -2,7 +2,7 @@
 
 # Hi, I'm Raphael Ribeiro 🚀
 
-### `Data Science Student` · `Full-Stack Developer Student` · `UX Designer Student`
+### `Data Science Student` · `Full-Stack Developer Student` 
 
 *Bridging the gap between human behavior and data-driven insights*
 
