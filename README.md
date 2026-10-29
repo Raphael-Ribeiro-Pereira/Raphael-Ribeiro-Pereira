@@ -106,16 +106,15 @@ My superpower? I'm not the data scientist who hands you a 50-page Jupyter notebo
 
 ---
 
-### 📚 [Resenhas-IA](https://github.com/Raphael-Ribeiro-Pereira/resenhas-ia) — *AI-Powered Reviews*
+### 📚 [Resenhas-IA](https://github.com/Raphael-Ribeiro-Pereira/resenhas-ia): Sentiment Hub
+> Sentiment analysis of app reviews using a local AI model (Qwen 2.5 via LM Studio), so no data leaves the machine.
 
-> Application that leverages AI to generate, analyze, and structure reviews — exploring the intersection between natural language processing and content curation.
-
-**🛠️ Stack:** JavaScript · AI/LLM Integration
+**🛠️ Stack:** Python · Jupyter · Qwen 2.5 · LM Studio · Matplotlib
 
 **✨ Highlights:**
-- 🧠 Practical application of LLMs for content generation
-- 📝 Structured review framework
-- 🚀 End-to-end implementation from prompt engineering to UI
+- 🌍 75 reviews in 15 languages
+- 📈 Sentiment counts, bar chart, per-language breakdown and a satisfaction index (-1 to +1)
+- ⚡ Response caching for much faster re-runs
 
 ---
 
@@ -132,16 +131,16 @@ My superpower? I'm not the data scientist who hands you a 50-page Jupyter notebo
 
 ---
 
-### ⚡ [autoUP](https://github.com/Raphael-Ribeiro-Pereira/autoUP) — *Automation Tool*
+### ⚡ [autoUP](https://github.com/Raphael-Ribeiro-Pereira/autoUP): Car Upgrade Assistant
+> Python assistant that analyzes car modifications using AI and Pandas.
 
-> Productivity-focused automation project designed to streamline repetitive workflows.
-
-**🛠️ Stack:** JavaScript · Automation Tools
+**🛠️ Stack:** Python · Pandas · Google Gemini API · HTML/CSS
 
 **✨ Highlights:**
-- ⚙️ Process automation
-- ⏱️ Time-saving for repetitive tasks
-- 🔧 Practical, real-world utility
+- 📊 Reads parts data from CSV with Pandas
+- 🤖 Gemini API generates a technical analysis for each part
+- 🔎 Interactive menu with filters by category and complexity
+- 📄 Generates a visual HTML report
 
 ---
 
@@ -149,7 +148,7 @@ My superpower? I'm not the data scientist who hands you a 50-page Jupyter notebo
 
 **🏛️ UFABC** — *Universidade Federal do ABC*
 **Bachelor of Science and Technology** (In Progress)
-- 📊 Focus: **Data Science × Neuroscience**
+- 📊 Focus: **Data Science**
 - 🧠 Foundation: **Psychology** (Behavioral Science)
 - 🔬 Extension Project: **Univerciência** — Science communication & data dissemination
 - 📈 Research: **Behavioral analysis on sports dropout rates**
